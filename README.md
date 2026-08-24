@@ -20,41 +20,29 @@ A full-featured, modern E-commerce web application designed to deliver an intuit
 
 1. **Clone your personal repository branch:** 
 
-bash
-
 git clone https://github.com/rathodgaurav207-lgtm/E-Cart-Python.git
 cd E-Cart-Python
 
-Use code with caution.
 2. **Establish your Python virtual environment:** 
-
-bash
 
 python -m venv venv
 .\venv\Scripts\activate
 
-Use code with caution.
 3. **Install application dependencies:** 
 
-bash
 
 pip install django pillow
 
-Use code with caution.
 4. **Synchronize database structures:** 
 
-bash
 
 python manage.py migrate
 
-Use code with caution.
 5. **Fire up the web application runtime:** 
 
-bash
 
 python manage.py runserver
 
-Use code with caution.
 
 ### 📜 License
 
