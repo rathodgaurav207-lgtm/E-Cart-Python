@@ -55,7 +55,6 @@ bash
 python manage.py runserver
 
 Use code with caution.
-6. Open your favorite web engine window and go to http://127.0.0.1:8000/ to test your digital marketplace.
 
 ### 📜 License
 
